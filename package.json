@@ -58,7 +58,7 @@
     "bluebird": "^3.4.7",
     "html-minifier": "^3.2.3",
     "loader-utils": "^0.2.16",
-    "lodash": "^4.17.3",
+    "lodash": "^4.17.20",
     "pretty-error": "^2.0.2",
     "toposort": "^1.0.0"
   },
